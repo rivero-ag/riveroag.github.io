@@ -2983,6 +2983,10 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+			.wrapper.style3 h3.job{
+                text-decoration: underline;
+			}            
+
 			.wrapper.style3 hr {
 				border-color: rgba(0, 0, 0, 0.125);
 			}
